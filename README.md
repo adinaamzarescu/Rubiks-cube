@@ -1,4 +1,5 @@
 #  Rubik's Cube Solver
+## Copyright 2024 Adina Amzarescu
 
 ## Description
 
