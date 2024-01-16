@@ -57,4 +57,4 @@ The project includes several test cases to evaluate the performance of the algor
 
 ## License
 
-This project is released under the MIT License. For more details, see the [LICENSE.md](LICENSE.md) file.
+This project is released under the MIT License. For more details, see the [LICENSE](LICENSE) file.
